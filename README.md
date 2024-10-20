@@ -31,8 +31,8 @@ Key Features:
 - Data integrity is maintained with robust database management.
 
 Technologies Used:
--Java Swing (GUI)
--MySQL (Database)
--JDBC (Java Database Connectivity)
+- Java Swing (GUI)
+- MySQL (Database)
+- JDBC (Java Database Connectivity)
 
 This Expense Tracker is ideal for individuals looking to manage their personal finances, offering an efficient and streamlined way to keep track of expenses, analyze spending patterns, and improve savings.
